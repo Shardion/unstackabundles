@@ -12,7 +12,7 @@ public class Unstackabundles implements ModInitializer {
     public void onInitialize() {
         if (FabricLoader.getInstance().isModLoaded("quilt_loader")) {
             LOGGER.warn("Please do not report any issues with any of my mods while using Quilt. - shardion");
-            LOGGER.warn("See https://github.com/shardion/unstackabundles/tree/master/src/main/java/shardion/unstackabundles/Unstackabundles.java.");
+            LOGGER.warn("See https://github.com/Shardion/unstackabundles/blob/master/src/main/java/shardion/unstackabundles/Unstackabundles.java.");
             /*
             No matter what you think about Quilt, I ask you please do not report issues with any of my mods
             while using it.
