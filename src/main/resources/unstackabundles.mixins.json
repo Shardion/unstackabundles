@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "shardion.unstackabundles.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BundleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

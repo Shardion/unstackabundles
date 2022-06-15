@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "unstackabundles",
+  "version": "1.0.0",
+
+  "name": "Unstackabundles",
+  "description": "Allows bundles to hold 4 unstackable items, surely solving the inventory problem for years to come",
+  "authors": [
+    "shardion"
+  ],
+  "contact": {
+    "sources": "https://github.com/shardion/unstackabundles"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/unstackabundles/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "shardion.unstackabundles.Unstackabundles"
+    ]
+  },
+  "mixins": [
+    "unstackabundles.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
