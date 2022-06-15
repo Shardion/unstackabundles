@@ -4,7 +4,7 @@
   "version": "1.0.0",
 
   "name": "Unstackabundles",
-  "description": "Allows bundles to hold 4 unstackable items, surely solving the inventory problem for years to come",
+  "description": "Allows bundles to hold 4 unstackable items, surely solving the inventory problem",
   "authors": [
     "shardion"
   ],
