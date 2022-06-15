@@ -1,8 +1,8 @@
 # Unstackabundles
 
-A Fabric mod that allows bundles to contain 4 unstackable items instead of just 1, surely solving the inventory problem for years to come.
+A Fabric mod that allows bundles to contain 4 unstackable items instead of just 1, surely solving the inventory problem.
 
-(Craftable bundles sold separately.)
+(Craftable bundles not included.)
 
 ## Technical details
 
