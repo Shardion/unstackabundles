@@ -16,16 +16,10 @@ public class Unstackabundles implements ModInitializer {
             /*
             No matter what you think about Quilt, I ask you please do not report issues with any of my mods
             while using it.
-
-            IMO:
-            Quilt is a useless project that shovels the burden of its poor Fabric API compatibility onto Fabric mod devs
-            while doing little of substance on its own and taking from other projects and loaders freely.
-            It only creates issues for everyone while further dividing the community on modloader choice.
-
-            Noble goals, terrible implementation.
-
-            Until Quilt becomes worth developing for (no, a single refactored API isn't enough), this warn will stay in
-            all of my mods.
+            
+            Personally, I feel Quilt is not worth the effort of porting just yet.
+            It adds barely anything while having compatibility issues with Fabric (which probably won't
+            affect this mod, because it doesn't use Fabric API, but still).
              */
         }
     }
