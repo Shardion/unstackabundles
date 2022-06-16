@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "unstackabundles",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "name": "Unstackabundles",
   "description": "Allows bundles to hold 4 unstackable items, surely solving the inventory problem",
